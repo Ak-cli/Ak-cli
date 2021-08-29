@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ak-cli
 - 👀 I’m interested in systems programming languages
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently using Rust 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ak.cli.rust@gmail.com
 
